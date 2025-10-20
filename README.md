@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Iddo Barnoon  
 
-<!--
-**iddobarnoon/iddobarnoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Sophomore Computer Science Student at Yeshiva University, with a concentration in Artificial Intelligence, and a minor in Mathematics. I'm also very interested in building scalable distributed systems and leveraging machine learning models to make decisions on a wide range of topics, whether it be financial markets or the British Premier League *(YNWA ❤️)*
+### Portfolio
+Check out my [portfolio](https://iddobarnoon.github.io/i-portfolio)
 
-Here are some ideas to get you started:
+### Experience  
+-  **Machine Learning Engineering Intern @ Lendbuzz**  
+   *Machine learning, ML Infra, and Dev Tools*  
+   
+### Get in Touch  
+📧 **iddobarnoon@gmail.com** | Linkedin **[@iddobarnoon](https://linkedin.com/in/iddobarnoon)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you!
